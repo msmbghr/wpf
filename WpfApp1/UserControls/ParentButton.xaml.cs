@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfControlLibrary2
+namespace UserControls
 {
     /// <summary>
-    /// Interaction logic for MyButton.xaml
+    /// Interaction logic for ParentButton.xaml
     /// </summary>
-    public partial class MyButton : UserControl
+    public partial class ParentButton : UserControl
     {
-        public MyButton()
+        public ParentButton()
         {
             InitializeComponent();
         }
